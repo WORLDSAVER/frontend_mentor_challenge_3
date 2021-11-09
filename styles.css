@@ -1,0 +1,117 @@
+/* ----------------------------------------------------------TAG CSS----------------------------------------- */
+
+body
+{
+  background-color:hsl(0, 0%, 95%);
+  margin:0;
+}
+
+h1
+{
+  font-family:'Big Shoulders Display', cursive;
+  color:hsl(0, 0%, 95%);
+}
+
+p
+{
+  font-family:'Lexend Deca', sans-serif;
+  color:hsla(0, 0%, 100%, 0.75);
+}
+
+
+/* ----------------------------------------------------------CLASS CSS----------------------------------------- */
+
+.learn-more
+{
+  background-color:hsl(0, 0%, 95%);
+  border-radius:50px;
+  width:116px;
+  height:31px;
+  font-family: 'Lexend Deca', sans-serif;
+  display:inline-block;
+  margin-top:63px;
+  padding:2px;
+}
+
+.learn-more:hover
+{
+  background-color: hsl(31, 77%, 52%);
+  border-style:solid;
+  border-color:hsl(0, 0%, 95%);
+  cursor: pointer;
+  padding:0;
+
+}
+.learn-more:hover h5
+{
+  color:hsl(0, 0%, 95%);
+}
+
+.part1
+{
+  background-color:hsl(31, 77%, 52%);
+  display:inline-block;
+  padding:30px;
+
+
+
+}
+
+.part1-heading
+{
+  color:hsl(31, 77%, 52%);
+  position:relative;
+  left:23.335px;
+  margin:0;
+  top:6.5px;
+
+}
+
+.part2
+{
+  background-color:hsl(184, 100%, 22%);
+  position: absolute;
+  left:264.269px;
+}
+
+.learn-more-part2 h5
+{
+  color:hsl(184, 100%, 22%);
+}
+
+.learn-more-part2:hover
+{
+  background-color: inherit;
+}
+
+.part3
+{
+  background-color: hsl(179, 100%, 13%);
+  position: absolute;
+  left:528.538px;
+}
+
+.learn-more-part3 h5
+{
+  color:hsl(179, 100%, 13%);
+}
+
+.learn-more-part3:hover
+{
+  background-color: inherit;
+}
+
+.main-card
+{
+  position: relative;
+  left:230.2615px;
+  width:850.807px;
+  top:85.5625px;
+
+}
+
+.part
+{
+  position: absolute;
+  left:0;
+}
